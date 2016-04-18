@@ -1,0 +1,26 @@
+{
+  "name": "nodejscode",
+  "version": "1.0.0",
+  "description": "a project for trying nodejs",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezhijian/nodejscode.git"
+  },
+  "keywords": [
+    "try",
+    "nodejs"
+  ],
+  "author": "yezhijian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yezhijian/nodejscode/issues"
+  },
+  "homepage": "https://github.com/yezhijian/nodejscode#readme",
+  "dependencies": {
+    "yargs": "^4.6.0"
+  }
+}
