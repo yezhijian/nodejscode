@@ -9,5 +9,5 @@ var server=http.createServer(function(req, res){
 });
 
 server.listen(port, hostname, function(){
-        console.log("server now is listening at http://{$hostname}:{$prot}, Winter is coming.");
+        console.log(`server now is listening at http://${hostname}:${port}, Winter is coming.`);
 })
